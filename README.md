@@ -7,7 +7,7 @@ Grocery app using kotlin
 
 https://youtu.be/kZgHjdN3jOM
 
-#MY ACCOUNTS -
+# MY ACCOUNTS -
 [SmartInternz](https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwNTI0MA==)<br/>
 [GoogleDevelopers](https://g.dev/Xavier07)<br/>
 
