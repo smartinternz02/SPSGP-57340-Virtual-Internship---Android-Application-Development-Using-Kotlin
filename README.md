@@ -33,11 +33,11 @@ Display the list in a recycler view
 
 
 # Screenshots - 
-![](https://github.com/smartinternz02/SPSGP-57340-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/registration.png)
-![](https://github.com/smartinternz02/SPSGP-57340-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/map_part.png)
-![](https://github.com/smartinternz02/SPSGP-57340-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final%20Project%20Mockup/grocery%20list.png)
-
-
+![index](https://user-images.githubusercontent.com/93143666/191061460-f27c1e5a-dd15-4215-b50f-d55371b82469.jpg)<br/>
+![insert](https://user-images.githubusercontent.com/93143666/191061495-0ccaf294-a47d-4971-b4ab-969835a059f6.jpg)<br/>
+![manipulate](https://user-images.githubusercontent.com/93143666/191061519-a04e84fe-dcc0-4882-85c4-b5db71e26229.jpg)<br/>
+![delete](https://user-images.githubusercontent.com/93143666/191061548-3a466a29-3a30-4bbb-b637-41fb004d3070.jpg)<br/>
+![deleted](https://user-images.githubusercontent.com/93143666/191061568-d74c7be1-6870-4805-ae0d-f765e8e12960.jpg)<br/>
 
 
 
